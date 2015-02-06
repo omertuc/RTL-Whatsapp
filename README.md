@@ -1,5 +1,7 @@
 # RTL-Whatsapp
-Makes the Whatsapp's web interface work properly with Hebrew (RTL). This changes the entire interface, so if you're using English in your conversations it probably isn't for you.
+Makes the [Whatsapp's web interface](https://https://web.whatsapp.com/) work properly with Hebrew (RTL).
+
+This changes the entire interface to RTL, so if you're using English in your conversations it probably isn't for you.
 
 Currently only works in Chrome (because that's the only version of the Whatsapp web interface that is available).
 

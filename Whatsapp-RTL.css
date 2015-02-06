@@ -42,4 +42,9 @@
 	div.message-out {
 		float: left; 
 	}
+
+	/* This makes the cotacts search box be RTL. */
+	input.input-search {
+		direction: rtl;
+	}
 }

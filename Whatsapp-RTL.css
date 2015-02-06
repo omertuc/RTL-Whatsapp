@@ -42,15 +42,4 @@
 	div.message-out {
 		float: left; 
 	}
-
-	/* This makes conversations list be of the right and chat be on the left. */
-	div.pane-list {
-		left: 824px; 
-	}
-	div.pane-chat {
-		left: 0px; 
-	}
-	div.drawer-container-left {
-		left: 824px; 
-	}
 }

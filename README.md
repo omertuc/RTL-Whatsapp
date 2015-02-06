@@ -1,2 +1,2 @@
 # RTL-Whatsapp
-תוסף Stylish ל-Chrome שגורם לוואטסאפ לעבוד כמו שצריך עם עברית ו-"מימין-לשמאל".
+Makes the Whatsapp's web interface work properly with Hebrew (RTL).

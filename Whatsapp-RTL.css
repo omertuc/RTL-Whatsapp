@@ -11,12 +11,12 @@
 	.message-meta {
 		position: relative;
 	}
-
+	
 	/* This makes the input text box be RTL. */
 	div.input {
-		direction: rtl; 
+	 	direction: rtl; 
 	}
-
+	
 	/* This makes conversation names (the names of the
 	 * users or groups) in both the left panel and the
 	 * current conversation title be RTL. */ 
@@ -26,23 +26,13 @@
 	div.chat-title { /* This one is for the "New conversation" menu. */
 		direction: rtl;
 	}
-
+	
 	/* This makes the text under conversation descriptions (on the left
 	 * panel of the app) be RTL. */
 	.chat-secondary {
 		direction: rtl;    
 	}
-
-	/* This makes left floating messages right floating, right floating
-	 * messages left floating. */
-	div.message-in {
-		float: right;
-	}
-
-	div.message-out {
-		float: left; 
-	}
-
+	
 	/* This makes the cotacts search box be RTL. */
 	input.input-search {
 		direction: rtl;

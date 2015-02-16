@@ -9,7 +9,8 @@
 	 * text to be RTL, it hides the time-stamp. Making it relative
 	 * fixes that. */
 	.message-meta {
-		position: relative;
+	    	position: relative;
+	    	right: 0px !important;
 	}
 	
 	/* This makes the input text box be RTL. */
